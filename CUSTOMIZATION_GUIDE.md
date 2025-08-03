@@ -8,21 +8,19 @@ This guide will help you customize your fancy GitHub profile README to make it t
 
 Update these placeholders in `README.md`:
 
-- `[Your Name]` - Your actual name
-- `your-username` - Your GitHub username (appears in multiple places)
-- `[Current Project Name]` - Project you're currently working on
-- `[Technology/Framework]` - What you're currently learning
-- `your.email@example.com` - Your email address
+- `[Mehedi Hasan Moon]` - Your actual name
+- `moonmehedi` - Your GitHub username (appears in multiple places)
+- `[Zeta]` - Project you're currently working on
+- `[LangGraph]` - What you're currently learning
+- `the.mehedi.hasan.moon@gmail.com` - Your email address
 - Social media links and portfolio URLs
 
 ### 2. Update Social Links
 
 In the "Connect with Me" section, update these URLs:
-- LinkedIn: `https://linkedin.com/in/your-profile`
-- Twitter: `https://twitter.com/your-username`
-- Portfolio: `https://your-portfolio.com`
-- Email: `mailto:your.email@example.com`
-- Dev.to: `https://dev.to/your-username`
+- LinkedIn: `https://www.linkedin.com/in/moonmehedi/`
+- Email: `the.mehedi.hasan.moon@gmail.com`
+- Dev.to: ``
 
 ### 3. Featured Projects
 
