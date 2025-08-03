@@ -1,5 +1,3 @@
-# 👋 I'm Mehedi Hasan Moon
-
 <div align="center">
 
 *"Khudî ko kar buland itna, ke har taqdeer se pehle  
