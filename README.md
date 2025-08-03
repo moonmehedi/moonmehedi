@@ -130,49 +130,14 @@ God Himself will ask you, 'What is it that you desire?'"*
 
 </div>
 
-## 💝 Support My Work
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/moonmehedi)
-[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/moonmehedi)
-
-</div>
-
 ## 🎨 Featured Projects
 
 <div align="center">
 
-### 🚀 [Zeeta](https://github.com/moonmehedi/Project-Zeta) 
+### 🚀 **[Zeeta](https://github.com/moonmehedi/Project-Zeta)** 
 *AI-powered project with advanced machine learning capabilities*
 
-### 🌐 [Portfolio](https://moonmehedi.github.io)
+### 🌐 **[Portfolio](https://moonmehedi.github.io)**
 *Personal portfolio showcasing my work and projects*
-
-</div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](https://your-blog.com/post-1)
-- [Another Interesting Article](https://your-blog.com/post-2)
-- [Tech Tutorial or Guide](https://your-blog.com/post-3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Snake animation](https://github.com/moonmehedi/moonmehedi/blob/output/github-contribution-grid-snake.svg)
-
-⭐️ From [moonmehedi](https://github.com/moonmehedi)
 
 </div>
