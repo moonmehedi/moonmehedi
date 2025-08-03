@@ -14,8 +14,7 @@
 - 🔭 I'm currently working on **Zeta**
 - 🌱 I'm currently learning **LangGraph**
 - 🤖 Former **AI Agent Intern** at **JB Connect**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
+- � Ask me about **Agentic AI, Deep Learning, Machine Learning, Reinforcement Learning**
 - 📫 How to reach me: **the.mehedi.hasan.moon@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee! ☕**
 
@@ -124,7 +123,7 @@
 
 <div align="center">
   
-[![Zeta](https://github-readme-stats.vercel.app/api/pin/?username=moonmehedi&repo=Project-Zeta&theme=radical&hide_border=true)](https://github.com/moonmehedi/Project-Zeta)
+[![Zeeta](https://github-readme-stats.vercel.app/api/pin/?username=moonmehedi&repo=Project-Zeta&theme=radical&hide_border=true)](https://github.com/moonmehedi/Project-Zeta)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=moonmehedi&repo=moonmehedi.github.io&theme=radical&hide_border=true)](https://github.com/moonmehedi/moonmehedi.github.io)
 
 </div>
