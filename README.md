@@ -19,7 +19,7 @@ God Himself will ask you, 'What is it that you desire?'"*
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Zeta**
+- 🔭 I'm currently working on **[Zeta](https://github.com/moonmehedi/Project-Zeta)**
 - 🌱 I'm currently learning **LangGraph**
 - 🤖 Former **AI Agent Intern** at **JB Connect**
 - 💬 Ask me about **Agentic AI, Deep Learning, Machine Learning, Reinforcement Learning**
@@ -127,17 +127,5 @@ God Himself will ask you, 'What is it that you desire?'"*
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi-hasan-moon)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.mehedi.hasan.moon@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehedihasanmoon)
-
-</div>
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-### 🚀 **[Zeeta](https://github.com/moonmehedi/Project-Zeta)** 
-*AI-powered project with advanced machine learning capabilities*
-
-### 🌐 **[Portfolio](https://moonmehedi.github.io)**
-*Personal portfolio showcasing my work and projects*
 
 </div>
