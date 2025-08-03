@@ -18,9 +18,9 @@ Update these placeholders in `README.md`:
 ### 2. Update Social Links
 
 In the "Connect with Me" section, update these URLs:
-- LinkedIn: `https://www.linkedin.com/in/moonmehedi/`
-- Email: `the.mehedi.hasan.moon@gmail.com`
-- Dev.to: ``
+- LinkedIn: `https://linkedin.com/in/your-profile`
+- Email: ``
+- Dev.to: `https://dev.to/your-username`
 
 ### 3. Featured Projects
 

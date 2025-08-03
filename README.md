@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Moonmehedi
+# Hi there! 👋 I'm Mehedi Hasan Moon
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Current Project Name]**
-- 🌱 I'm currently learning **[Technology/Framework]**
+- 🔭 I'm currently working on **Zeta**
+- 🌱 I'm currently learning **LangGraph**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **the.mehedi.hasan.moon@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee! ☕**
 
 ## 🛠️ Technologies & Tools
