@@ -19,21 +19,24 @@ Update these placeholders in `README.md`:
 
 In the "Connect with Me" section, update these URLs:
 - LinkedIn: `https://linkedin.com/in/your-profile`
-- Email: ``
-- Dev.to: `https://dev.to/your-username`
+- Email: `the.mehedi.hasan.moon@gmail.com`
 
+<!-- 
 ### 3. Featured Projects
 
 Replace `project-1` and `project-2` with your actual repository names:
 ```markdown
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-actual-repo&theme=radical&hide_border=true)](https://github.com/your-username/your-actual-repo)
 ```
+-->
 
+<!-- 
 ### 4. Blog Posts Configuration
 
 Update `.github/workflows/blog-post-workflow.yml`:
 - Replace `your-username` in the feed URL with your actual Dev.to username
 - Or change the feed URL to your blog's RSS feed
+-->
 
 ## 🎨 Customization Options
 
