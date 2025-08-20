@@ -5,7 +5,7 @@ Khuda bande se khud pooche, bata teri raza kya hai"*
 
 **Translation:** *"Raise yourself to such heights that before every destiny is written,  
 God Himself will ask you, 'What is it that you desire?'"*
-
+        
 </div>
 
 <div align="center">
