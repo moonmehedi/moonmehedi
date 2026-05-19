@@ -19,7 +19,7 @@ God Himself will ask you, 'What is it that you desire?'"*
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Zeta](https://github.com/moonmehedi/Project-Zeta)**
+- 🔭 I'm currently working as a Research Assistant, MIST
 - 🌱 I'm currently learning **LangGraph**
 - 🤖 Former **Software Engineer intern ( AI Agent )** at **JB Connect**
 - 💬 Ask me about **Agentic AI, Deep Learning, Machine Learning, Reinforcement Learning**
